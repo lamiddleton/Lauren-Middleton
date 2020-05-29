@@ -8,4 +8,4 @@ github_username:  lamiddleton
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: minima
