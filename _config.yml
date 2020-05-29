@@ -1,1 +1,11 @@
+# basic options - this line is a comment
+title: This-is-the-title
+author: I am the author
+email: your-email@domain.com
+description: A wonderful site
+twitter_username: jekyllrb
+github_username:  lamiddleton
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-merlot
